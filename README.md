@@ -27,10 +27,10 @@ We can stage the fles we wan git o rac by using the command below
 git add .
 ```
 ### Commiting
-
+This helps in creating snapshot of points in our project
 
 ```bash
-git init
+git commit -m "_your commit message_"
 ```
 ### Branching
 _To be documented_
